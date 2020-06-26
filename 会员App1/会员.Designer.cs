@@ -141,7 +141,7 @@
             // 
             this.VIPDelete.Location = new System.Drawing.Point(536, 364);
             this.VIPDelete.Name = "VIPDelete";
-            this.VIPDelete.Size = new System.Drawing.Size(142, 39);
+            this.VIPDelete.Size = new System.Drawing.Size(142, 38);
             this.VIPDelete.TabIndex = 11;
             this.VIPDelete.Text = "会员删除";
             this.VIPDelete.UseVisualStyleBackColor = true;
